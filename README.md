@@ -1,7 +1,3 @@
-git add "Screenshot 2024-10-24 200439.png"
-git commit -m "Add screenshot image to project"
-git push origin main
-
 # Bank-Loan-Dashboard
 echo "# Bank Loans Dashboard" > README.md
 
