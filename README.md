@@ -1,7 +1,6 @@
-# Bank-Loan-Dashboard
-echo "# Bank Loans Dashboard" > README.md
+# Bank Loans Dashboard
 
-echo "This project involves developing a comprehensive Bank Loans Dashboard that provides critical insights into loan applications. The dashboard includes the following key features:
+This project involves developing a comprehensive Bank Loans Dashboard that provides critical insights into loan applications. The dashboard includes the following key features:
 
 ### Key Metrics
 - Good Loan Percentage: 86.36%
@@ -21,8 +20,6 @@ echo "This project involves developing a comprehensive Bank Loans Dashboard that
 6. Total Loan Applications by Home Ownership: A bar chart displaying applications based on home ownership categories (mortgage, own, rent).
 
 ### Description
-This dashboard is designed to offer a comprehensive overview of loan application trends, funding amounts, interest rates, and other critical metrics that are essential for financial analysis and decision-making. The visualizations provide detailed insights into various aspects of the loan process, helping stakeholders make informed decisions." >> README.md
+This dashboard is designed to offer a comprehensive overview of loan application trends, funding amounts, interest rates, and other critical metrics that are essential for financial analysis and decision-making. The visualizations provide detailed insights into various aspects of the loan process, helping stakeholders make informed decisions.
 
-git add README.md
-git commit -m "Add project description to README"
-git push origin main
+![Bank Loans Dashboard](./Screenshot%202024-10-24%20200439.png)
